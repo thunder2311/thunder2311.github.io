@@ -1,5 +1,5 @@
 # About Me 
-Hi. My name is Natty Samuel, I am a Senior studying Geography Data Science. Some of my hobbies are playing sports like soccer and basketball. 
+_Hi. My name is Natty Samuel, I am a Senior studying Geography Data Science. Some of my hobbies are playing sports like soccer and basketball._
 
 
 ## **Lionel Messi**
