@@ -5,23 +5,13 @@ Hi. My name is Natty Samuel, I am a Senior studying Geography Data Science. Some
 ## **Lionel Messi**
 ![images](https://static01.nyt.com/images/2020/09/25/sports/25soccer-nationalWEB1/merlin_177451008_91c7b66d-3c8a-4963-896e-54280f374b6d-superJumbo.jpg?quality=75&auto=webp)
 
-## Michael Jordan 
+## **Michael Jordan**
 ![images](https://preview.redd.it/l3wxldbv5rq21.jpg?width=1080&crop=smart&auto=webp&s=898447c08629e67b59ad8fa3fa03524a4aac2ceb)
 
-## Section 2
-One or several paragraphs.
-### (Optional) Subsection 1
-One or several paragraphs.
-### (Optional) Subsection 2
-One or several paragraphs.
-
-## Section 3
-One or several paragraphs for subsection 3.
-
-## See also
-- [Resource 1](https://www.nba.com/)
-- [Resource 2](https://www.uefa.com/uefachampionsleague/)
-- [Resource 3](https://www.xbox.com/en-US)
+## Websites
+- [NBA](https://www.nba.com/)
+- [Champions League](https://www.uefa.com/uefachampionsleague/)
+- [Xbox](https://www.xbox.com/en-US)
 
 ### References
 1. Me
